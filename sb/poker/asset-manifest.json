@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sb/poker/static/css/main.3f56fbeb.chunk.css",
+    "main.js": "/sb/poker/static/js/main.2f6976bb.chunk.js",
+    "main.js.map": "/sb/poker/static/js/main.2f6976bb.chunk.js.map",
+    "runtime-main.js": "/sb/poker/static/js/runtime-main.1fa6ad9a.js",
+    "runtime-main.js.map": "/sb/poker/static/js/runtime-main.1fa6ad9a.js.map",
+    "static/js/2.ede909d4.chunk.js": "/sb/poker/static/js/2.ede909d4.chunk.js",
+    "static/js/2.ede909d4.chunk.js.map": "/sb/poker/static/js/2.ede909d4.chunk.js.map",
+    "index.html": "/sb/poker/index.html",
+    "precache-manifest.7b271a9a1df7720aee0cc0faf295b3d9.js": "/sb/poker/precache-manifest.7b271a9a1df7720aee0cc0faf295b3d9.js",
+    "service-worker.js": "/sb/poker/service-worker.js",
+    "static/css/main.3f56fbeb.chunk.css.map": "/sb/poker/static/css/main.3f56fbeb.chunk.css.map",
+    "static/media/App.css": "/sb/poker/static/media/poker_stol.alice.2.c1ecfea0.PNG",
+    "static/media/sphere.png": "/sb/poker/static/media/sphere.45397b25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fa6ad9a.js",
+    "static/js/2.ede909d4.chunk.js",
+    "static/css/main.3f56fbeb.chunk.css",
+    "static/js/main.2f6976bb.chunk.js"
+  ]
+}
